@@ -1,2 +1,6 @@
 # Alura_020
-Formação - JavaScript paa Back-End
+Formação - JavaScript para Back-End
+
+![preview](https://7h14g0d.github.io/Alura_020/imagens/Certificado.png)
+
+## 💙💙💙💙💙
